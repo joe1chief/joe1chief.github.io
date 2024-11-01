@@ -151,14 +151,14 @@
   ],
   "languages": [
     {
-      "language": "Chinese",
+      "language": "German",
       "fluency": "Native speaker",
-      "icon": "ch"
+      "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": "en"
+      "icon": ""
     }
   ],
   "interests": [
