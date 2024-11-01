@@ -6,14 +6,14 @@
     "email": "joe1chief1993@gmail.com",
     // "phone": "(912) 123-4567",
     "url": "https://joe1chief.github.io",
-    "summary": "A post-doc in Aier EYE Hospital Group, open mind in collaboration, and interested in the field of medical image processing, computer vision, and machine learning.",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "No. 188, Sec. 1, Furong S. Rd., Tianxin Dist.",
-      "postalCode": "410000",
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
       "city": "Changsha",
       "countryCode": "China",
       "region": "Hunan"
-    }
+    },
     // "profiles": [
     //   {
     //     "network": "Twitter",
@@ -24,36 +24,27 @@
   },
   "work": [
     {
-      "name": "Aier Institute of Digital Ophthalmology & Visual Science, Aier EYE Hospital Group",
-      "position": "Post-doc",
-      // "url": "https://example.com",
-      "startDate": "2024-07-02",
-      "endDate": "now",
-      // "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    },
-    {
-      "name": "School of Data Science, Fudan University",
-      "position": "Research Assistant",
-      // "url": "https://example.com",
-      "startDate": "2018-08-01",
-      "endDate": "2019-08-28",
-      // "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
   ],
-  // "volunteer": [
-  //   {
-  //     "organization": "People's Climate March",
-  //     "location": "Zurich, Switzerland",
-  //     "position": "Lead Organizer",
-  //     "url": "https://example.com",
-  //     "startDate": "2014-04-01",
-  //     "endDate": "2015-07-01",
-  //     "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-  //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-  //   }
-  // ],
+  "volunteer": [
+    {
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+    }
+  ],
   "education": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",

@@ -31,13 +31,13 @@
       "endDate": "now",
       // "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
-    },
+    }
     {
       "name": "School of Data Science, Fudan University",
       "position": "Research Assistant",
       // "url": "https://example.com",
-      "startDate": "2018-08-01",
-      "endDate": "2019-08-28",
+      "startDate": "201-08-01",
+      "endDate": "201-08-28",
       // "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
