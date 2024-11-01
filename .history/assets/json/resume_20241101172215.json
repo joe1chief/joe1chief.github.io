@@ -30,7 +30,7 @@
       "startDate": "2024-07-02",
       "endDate": "now",
       // "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      // "highlights": ["Relativity"]
+      "highlights": ["Relativity"]
     },
     {
       "name": "School of Data Science, Fudan University",
@@ -39,7 +39,7 @@
       "startDate": "2018-08-01",
       "endDate": "2019-08-28",
       // "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      // "highlights": ["Relativity"]
+      "highlights": ["Relativity"]
     }
   ],
   // "volunteer": [
@@ -184,26 +184,26 @@
       ]
     }
   ],
-  // "references": [
-  //   {
-  //     "name": "Professor John Doe",
-  //     "icon": "fa-solid fa-laptop",
-  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-  //   },
-  //   {
-  //     "name": "Professor John Doe",
-  //     "icon": "fa-solid fa-thumbtack",
-  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-  //   }
-  // ],
-  // "projects": [
-  //   {
-  //     "name": "Quantum Computing",
-  //     "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-  //     "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-  //     "startDate": "2018-01-01",
-  //     "endDate": "2018-01-01",
-  //     "url": "https://example.com"
-  //   }
-  // ]
+  "references": [
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    },
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    }
+  ]
 }
